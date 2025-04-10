@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Sivasundaar
 
 <p align="center">
-  🎯 <strong>Aspiring Data Scientist</strong> &nbsp;|&nbsp; 
+  🎯 <strong>Aspiring Data Scientist</strong> &nbsp;&nbsp; 
 </p>
 
 Welcome to my GitHub! I'm currently diving deep into the world of data — from wrangling datasets and crafting powerful SQL queries to building models and extracting insights that matter.
