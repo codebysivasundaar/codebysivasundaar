@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hey there, I'm Sivasundaar
 
-<!--
-**codebysivasundaar/codebysivasundaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Data Scientist **
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm currently diving deep into the world of data — from wrangling datasets and crafting powerful SQL queries to building models and extracting insights that matter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I'm Learning
+- 📊 SQL for Data Analysis
+- 🐍 Python for data manipulation and visualization
+- 📈 Machine Learning fundamentals
+- 📦 Tools like Pandas, NumPy, Scikit-learn, and Matplotlib
+
+## 🔨 Projects Coming Soon
+- A collection of SQL challenges and solutions
+- Exploratory Data Analysis (EDA) on real-world datasets
+- End-to-end data science projects (with Jupyter notebooks)
+
+## 🌱 What's Next?
+I'm constantly learning and applying new skills, aiming to transition into a data science role where I can turn raw data into actionable insights.
+---
+
+🛠️ *This profile is under construction as I build and share my journey in data science. Stay tuned for more!*
+
